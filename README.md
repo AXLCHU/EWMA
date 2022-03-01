@@ -1,4 +1,4 @@
-# VaR & CVaR : historical vs EWMA methods
+## VaR & CVaR : historical vs EWMA methods
 
 ### Obj
 - Backtest
