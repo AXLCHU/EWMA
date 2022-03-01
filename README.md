@@ -1,15 +1,15 @@
-## VaR & CVaR : historical vs EWMA methods
+## Calculating Risk measures : 
+## Comparison between historical & EWMA methods
 
-### Obj
+### Objectives:
 - VaR vs CVaR
 - Histo vs EWMA
 
 ### Results
-- Nbr of breaches
-- Coverages
+- Nbr of breaches & coverages
 - Backtest
 
 #
-### Interactive plot
+### Example : interactive plot
 
 https://axlchu.github.io/EWMA/CVaR.html
