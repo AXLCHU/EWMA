@@ -1,11 +1,11 @@
-## Calculating Risk measures : 
+## Calculating VaR & CVaR: 
 ## Comparison between historical & EWMA methods
 
 ### Objectives:
 - VaR vs CVaR
 - Histo vs EWMA
 
-### Results
+### Results:
 - Nbr of breaches & coverages
 - Backtest
 
