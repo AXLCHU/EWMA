@@ -13,14 +13,9 @@
 ### Plot using Plotly -> https://axlchu.github.io/EWMA/CVaR.html
 
 #
-### Results:
-- Nbr of breaches on the 10Y period:
-        - VaR:
-          - Histo = 35
-          - EWMA = 31
-        - CVaR:
-          - Histo = 15
-          - EWMA = 9
-          
-- coverages
-- Backtest
+### Nbr of breaches on the 10Y period:
+- VaR: Histo = 35 & EWMA = 31
+- CVaR: Histo = 15 & EWMA = 9
+        
+#
+### Backtests
