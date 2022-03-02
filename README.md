@@ -18,4 +18,5 @@
         
 #
 ### Backtests:
-- POF
+- Frequency tests
+- Independence tests
