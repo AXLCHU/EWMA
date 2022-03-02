@@ -1,9 +1,8 @@
-## Calculating VaR & CVaR in Python: 
-## Comparison between historical & EWMA methods
+## Calculating VaR & CVaR in Python
 
 ### Objectives:
-- VaR vs CVaR
-- Histo vs EWMA
+- Comparison between VaR & CVaR
+- Comparison between historical & EWMA methods
 
 #
 ### Example on ZC FR 2Y : 
@@ -18,4 +17,5 @@
 - CVaR: Histo = 15 & EWMA = 9
         
 #
-### Backtests
+### Backtests:
+- POF
