@@ -1,4 +1,4 @@
-## Calculating VaR & CVaR in Python
+## Calculating VaR & CVaR
 
 ### Objectives:
 - Comparison between VaR & CVaR
