@@ -12,7 +12,7 @@
 ### Plot using Plotly -> https://axlchu.github.io/EWMA/CVaR.html
 
 #
-### Nbr of breaches on the 10Y period:
+### Number of breaches on the 10Y period:
 - VaR: Normal = 51, Histo = 35 & EWMA = 31
 - CVaR: Normal = 31, Histo = 15 & EWMA = 9
         
